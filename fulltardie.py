@@ -1,3 +1,5 @@
+# Recurring transaction forecaster, by c.p.brown 2016
+
 import os
 from datetime import datetime
 import calendar
